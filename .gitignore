@@ -1,2 +1,6 @@
 
 *.xlsx
+*.csv
+/venv
+.vscode/launch.json
+.vscode/settings.json
